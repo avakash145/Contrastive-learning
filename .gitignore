@@ -1,7 +1,7 @@
 embed_model.pth
 id2voc.pkl
 voc2id.pkl
-
+embed_mod.pth
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
